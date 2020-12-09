@@ -109,7 +109,7 @@ function sceneDraw (graphics, instructions)  {
  	});
 }
 
-var enterParty = confirm("Welcome to the party! Click OK to enter.");
+/*var enterParty = confirm("Welcome to the party! Click OK to enter.");
 
 if(enterParty == true) {
 	var greetChoice = sceneDraw("thumbsup", "You walk into the party and take off your coat. Do you greet your friends or put down your coat?");
@@ -221,7 +221,7 @@ if(enterParty == true) {
 }
 else {
 	textDraw("You don't go into the party. Lame.")
-}
+}*/
 
 
 //code structure sampled from https://medium.com/@heoegema/coding-for-absolute-beginners-choose-your-own-adventure-tutorial-3613182c6097
